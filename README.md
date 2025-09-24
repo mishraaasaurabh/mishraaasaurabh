@@ -14,7 +14,6 @@
 - 💬 Ask me about **React, Express, and Problem Solving**
 - 🌱 Currently exploring **Advanced DSA & Backend Scaling**
 - 📫 Reach me at **saurabhmishraald03@gmail.com**
-- ⚡ Fun fact: *I debug like Sherlock Holmes but with Stack Overflow open.*
 
 ---
 
